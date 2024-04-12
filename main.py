@@ -3,16 +3,18 @@ questions = ("What is the most popular programming language as of April 12th 202
                        "What is the coding language Minecraft BEDROCK runs on?: ",
                        "Which planet is the farthest from Earth?: ",
                        "Which planet in the solar system is the hottest?: ",
-             "What is the sphere of the Earth that contains life?: ")
+             "Which sphere of the Earth that contains life?: ",
+             "What is Scale of The Universe?: ")
 
 options = (("A. C++", "B. Python", "C. Java Script", "D. HTML/CSS", "E. Block Coding/Scratch"),
                    ("A. I have no idea", "B. 0.00001546424", "C. 2", "D. 0.00001546425", "E. 0.5"),
                    ("A. Java Script", "B. Java", "C. Python", "D. Bedrock", "E. C++"),
                    ("A. Neptune", "B. Mercury", "C. Mars", "D. Uranus", "E. Pluto"),
                    ("A. Venus", "B. Mercury", "C. Earth", "D. Mars", "E. Uranus"),
-          ("A. Hydrosphere", "B. Biosphere", "C. Atmosphere", "D. Geosphere", "E. Atmostsphere"))
+          ("A. Hydrosphere", "B. Biosphere", "C. Atmosphere", "D. Geosphere", "E. Atmostsphere"),
+          ("A. A tool to find code", "B. A calculator", "C. FInd the ratio of Earth", "D. A tool to find the scale of things in the universe", "E. IDK"))
 
-answers = ("C", "B", "E", "A", "A", "B")
+answers = ("C", "B", "E", "A", "A", "B", "D")
 guesses = []
 score = 0
 question_num = 0
