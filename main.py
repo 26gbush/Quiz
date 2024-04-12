@@ -8,9 +8,9 @@ questions = ("What is the most popular programming language as of April 12th 202
 options = (("A. C++", "B. Python", "C. Java Script", "D. HTML/CSS", "E. Block Coding/Scratch"),
                    ("A. I have no idea", "B. 0.00001546424", "C. 2", "D. 0.00001546425", "E. 0.5"),
                    ("A. Java Script", "B. Java", "C. Python", "D. Bedrock", "E. C++"),
-                   ("A. Neptune", "B. Mercury", "C. Mars", "D. Uranus"),
-                   ("A. Venus", "B. Mercury", "C. Earth", "D. Mars"),
-          ("A. Hydrosphere", "B. Biosphere", "C. Atmosphere", "D. Geosphere", "Atmostsphere"))
+                   ("A. Neptune", "B. Mercury", "C. Mars", "D. Uranus", "E. Pluto"),
+                   ("A. Venus", "B. Mercury", "C. Earth", "D. Mars", "E. Uranus"),
+          ("A. Hydrosphere", "B. Biosphere", "C. Atmosphere", "D. Geosphere", "E. Atmostsphere"))
 
 answers = ("C", "B", "E", "A", "A", "B")
 guesses = []
