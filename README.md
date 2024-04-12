@@ -3,4 +3,4 @@ Test what you know! this is updated frequently and is Open-Source! based of this
 # Latest Version
 to get the latest version of the quiz, go to this link: https://www.online-python.com/KvqyPdsotf
 # versions
-Pre-Release Versions: https://github.com/26gbush/Quiz/releases/tag/Pre-Release
+Pre-Release Versions: https://github.com/26gbush/Quiz/releases
