@@ -1,16 +1,18 @@
-questions = ("How many elements are in the periodic table?: ",
-                       "Which animal lays the largest eggs?: ",
-                       "What is the most abundant gas in Earth's atmosphere?: ",
-                       "How many bones are in the human body?: ",
-                       "Which planet in the solar system is the hottest?: ")
+questions = ("What is the most popular programming language as of April 12th 2024? (it is NOT the thing this quiz is coded in): ",
+                       "What is the square root of 5 x 4 / 578384?: ",
+                       "What is the coding language Minecraft BEDROCK runs on?: ",
+                       "Which planet is the farthest from Earth?: ",
+                       "Which planet in the solar system is the hottest?: ",
+             "What is the sphere of the Earth that contains life?: ")
 
-options = (("A. 116", "B. 117", "C. 118", "D. 119"),
-                   ("A. Whale", "B. Crocodile", "C. Elephant", "D. Ostrich"),
-                   ("A. Nitrogen", "B. Oxygen", "C. Carbon-Dioxide", "D. Hydrogen"),
-                   ("A. 206", "B. 207", "C. 208", "D. 209"),
-                   ("A. Mercury", "B. Venus", "C. Earth", "D. Mars"))
+options = (("A. C++", "B. Python", "C. Java Script", "D. HTML/CSS", "E. Block Coding/Scratch"),
+                   ("A. I have no idea", "B. 0.00001546424", "C. 2", "D. 0.00001546425", "E. 0.5"),
+                   ("A. Java Script", "B. Java", "C. Python", "D. Bedrock", "E. C++"),
+                   ("A. Neptune", "B. Mercury", "C. Mars", "D. Uranus"),
+                   ("A. Venus", "B. Mercury", "C. Earth", "D. Mars"),
+          ("A. Hydrosphere", "B. Biosphere", "C. Atmosphere", "D. Geosphere", "Atmostsphere"))
 
-answers = ("C", "D", "A", "A", "B")
+answers = ("C", "B", "E", "A", "A", "B")
 guesses = []
 score = 0
 question_num = 0
@@ -21,7 +23,7 @@ for question in questions:
     for option in options[question_num]:
         print(option)
 
-    guess = input("Enter (A, B, C, D): ").upper()
+    guess = input("Enter (A, B, C, D, E): ").upper()
     guesses.append(guess)
     if guess == answers[question_num]:
         score += 1
