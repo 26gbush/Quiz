@@ -4,7 +4,10 @@ questions = ("What is the most popular programming language as of April 12th 202
                        "Which planet is the farthest from Earth?: ",
                        "Which planet in the solar system is the hottest?: ",
              "Which sphere of the Earth that contains life?: ",
-             "What is Scale of The Universe?: ")
+             "What is Scale of The Universe?: ",
+             "What is 0 divided by 0?: ",
+             "What is the difference between coding and programming?: ",
+             "What Programming language does this quiz use?: ",)
 
 options = (("A. C++", "B. Python", "C. Java Script", "D. HTML/CSS", "E. Block Coding/Scratch"),
                    ("A. I have no idea", "B. 0.00001546424", "C. 2", "D. 0.00001546425", "E. 0.5"),
@@ -12,9 +15,12 @@ options = (("A. C++", "B. Python", "C. Java Script", "D. HTML/CSS", "E. Block Co
                    ("A. Neptune", "B. Mercury", "C. Mars", "D. Uranus", "E. Pluto"),
                    ("A. Venus", "B. Mercury", "C. Earth", "D. Mars", "E. Uranus"),
           ("A. Hydrosphere", "B. Biosphere", "C. Atmosphere", "D. Geosphere", "E. Atmostsphere"),
-          ("A. A tool to find code", "B. A calculator", "C. FInd the ratio of Earth", "D. A tool to find the scale of things in the universe", "E. IDK"))
+          ("A. A tool to find code", "B. A calculator", "C. A tool to Find the ratio of Earth", "D. A tool to find the scale of things in the universe", "E. IDK"),
+          ("A. 82", "B. 69", "C. 0", "D. 1", "E. Undefined"),
+          ("A. Coding uses higher level thinking", "B. Prographing uses higher level thinking", "C. Programming uses higher level thinking", "D. Programming is very easy to understand", "E. They are the same"),
+          ("A. Python", "B. Java", "C. Java Script", "D. HTML/CSS/PHP", "E. C++"),)
 
-answers = ("C", "B", "E", "A", "A", "B", "D")
+answers = ("C", "B", "E", "A", "A", "B", "D", "E", "C", "A")
 guesses = []
 score = 0
 question_num = 0
