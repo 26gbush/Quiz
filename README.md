@@ -5,8 +5,11 @@ vDev 1.0.0: https://www.online-python.com/leZqW6YOj5
 
 vDev 1.0.1: https://www.online-python.com/KvqyPdsotf
 
-*NEW* vDev 1.0.2: https://www.online-python.com/lXcEGvCHLt
+vDev 1.0.2: https://www.online-python.com/lXcEGvCHLt
+
+*NEW* vDev 1.0.2.1: https://www.online-python.com/7gobzjt9K8
 # versions
 Pre-Release Versions: https://github.com/26gbush/Quiz/releases
 # NEWS
-I am sick today (4/15/24) so I could not add as many things to vDev 1.0.2 as I wanted to, I will try to add all the missed features in vDev 1.0.3
+(4/15/24): I am sick today so I could not add as many things to vDev 1.0.2 as I wanted to, I will try to add all the missed features in vDev 1.0.3
+(4/16/24): fixed bugs and grammar issues in 1.0.2.1, I am still a little sick so this will be the only update today.
