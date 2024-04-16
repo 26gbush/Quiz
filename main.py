@@ -1,15 +1,15 @@
 questions = ("What is the most popular programming language as of April 12th 2024? (it is NOT the thing this quiz is coded in): ",
                        "What is the square root of 5 x 4 / 578384?: ",
-                       "What is the coding language Minecraft BEDROCK runs on?: ",
+                       "What programming language does Minecraft BEDROCK run on?: ",
                        "Which planet is the farthest from Earth?: ",
                        "Which planet in the solar system is the hottest?: ",
              "Which sphere of the Earth that contains life?: ",
              "What is Scale of The Universe?: ",
              "What is 0 divided by 0?: ",
              "What is the difference between coding and programming?: ",
-             "What Programming language does this quiz use?: ",)
+             "Which Programming language does this quiz use?: ",)
 
-options = (("A. C++", "B. Python", "C. Java Script", "D. HTML/CSS", "E. Block Coding/Scratch"),
+options = (("A. C++", "B. Python", "C. JavaScript", "D. HTML/CSS", "E. Block Coding/Scratch"),
                    ("A. I have no idea", "B. 0.00001546424", "C. 2", "D. 0.00001546425", "E. 0.5"),
                    ("A. Java Script", "B. Java", "C. Python", "D. Bedrock", "E. C++"),
                    ("A. Neptune", "B. Mercury", "C. Mars", "D. Uranus", "E. Pluto"),
