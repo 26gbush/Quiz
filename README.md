@@ -12,4 +12,4 @@ vDev 1.0.2: https://www.online-python.com/lXcEGvCHLt
 Pre-Release Versions: https://github.com/26gbush/Quiz/releases
 # NEWS
 (4/15/24): I am sick today so I could not add as many things to vDev 1.0.2 as I wanted to, I will try to add all the missed features in vDev 1.0.3
-(4/16/24): fixed bugs and grammar issues in 1.0.2.1, I am still a little sick so this will be the only update today.
+(4/16/24): fixed bugs and grammar issues in vDev 1.0.2.1, I am still a little sick so this will be the only update today.
