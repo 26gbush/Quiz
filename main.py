@@ -7,7 +7,10 @@ questions = ("What is the most popular programming language as of April 12th 202
              "What is Scale of The Universe?: ",
              "What is 0 divided by 0?: ",
              "What is the difference between coding and programming?: ",
-             "Which Programming language does this quiz use?: ",)
+             "Which Programming language does this quiz use?: ",
+            "What is my most popular project on github ( as of 4/18/24)?: ",
+            "What is the most downloaded game of all time?: ",
+            "What is the most popular web browser?: ",)
 
 options = (("A. C++", "B. Python", "C. JavaScript", "D. HTML/CSS", "E. Block Coding/Scratch"),
                    ("A. I have no idea", "B. 0.00001546424", "C. 2", "D. 0.00001546425", "E. 0.5"),
@@ -18,9 +21,12 @@ options = (("A. C++", "B. Python", "C. JavaScript", "D. HTML/CSS", "E. Block Cod
           ("A. A tool to find code", "B. A calculator", "C. A tool to Find the ratio of Earth", "D. A tool to find the scale of things in the universe", "E. IDK"),
           ("A. 82", "B. 69", "C. 0", "D. 1", "E. Undefined"),
           ("A. Coding uses higher level thinking", "B. Prographing uses higher level thinking", "C. Programming uses higher level thinking", "D. Programming is very easy to understand", "E. They are the same"),
-          ("A. Python", "B. Java", "C. Java Script", "D. HTML/CSS/PHP", "E. C++"),)
+          ("A. Python", "B. Java", "C. Java Script", "D. HTML/CSS/PHP", "E. C++"),
+          ("A. Calculator", "B. Quiz", "C. 26gbush README.md", "D. IDK", "E. MATH"),
+          ("A. Minecraft", "B. Roblox", "C. Tetris", "D. GTA 5", "E. Pac-Man"),
+          ("A. Edge", "B. Chrome", "C. Firefox", "D. Opera", "E. Brave"),)
 
-answers = ("C", "B", "E", "A", "A", "B", "D", "E", "C", "A")
+answers = ("C", "B", "E", "A", "A", "B", "D", "E", "C", "A", "B", "A", "B")
 guesses = []
 score = 0
 question_num = 0
