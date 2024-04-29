@@ -20,3 +20,5 @@ Pre-Release Versions: https://github.com/26gbush/Quiz/releases
 (4/16/24): fixed bugs and grammar issues in vDev 1.0.2.1, I am still a little sick so this will be the only update today.
 
 (4/18/24): vDev 1.0.3 is FINALLY OUT!
+
+(4/29/24): vDev 1.0.3.1 has been released
