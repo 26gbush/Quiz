@@ -1,6 +1,8 @@
-questions = ("What is the most popular programming language as of April 12th 2024? (it is NOT the thing this quiz is coded in): ",
+print("development is currently halted to work on other projects.")
+print("")
+questions = ("What is the most popular programming language as of April 12th 2024? (it is NOT the programming language used on this quiz.): ",
                        "What is the square root of 5 x 4 / 578384?: ",
-                       "What programming language does Minecraft BEDROCK run on?: ",
+                       "Which programming language does Minecraft BEDROCK run on?: ",
                        "Which planet is the farthest from Earth?: ",
                        "Which planet in the solar system is the hottest?: ",
              "Which sphere of the Earth that contains life?: ",
